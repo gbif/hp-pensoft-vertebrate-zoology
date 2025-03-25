@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Vertebrate Zoology
+description: Browse data on GBIF associated with publications in Vertebrate Zoology
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Sangster G (2022) The taxonomic status of Palearctic and Nearctic populations of northern goshawk _Accipiter gentilis_ (Aves, Accipitridae): New evidence from vocalisations. Vertebrate Zoology 72: 445-456. [https://doi.org/10.3897/vz.72.e85419](https://doi.org/10.3897/vz.72.e85419)"
 height: 75vh
 cta:
   - text: Datasets
